@@ -5,5 +5,6 @@ This is not a strictly technical repository. It is intended to provide the mater
 - https://github.com/ambitus/pyzkiln Open Source Python code that performs a number cool z/OS functions.
 - https://www.ibm.com/community/z-and-cloud/ IBM's Cloud Modernization Center
 
-We are building an index of materials making it easy to find exactly what you need.
+We have an index that helps you find exactly what you need. It can be found at: https://github.com/IBMRedbooks/ModernizationPacket/wiki/Modernization-Packet-Index
+
 Additionally you can find great articles on modernization at: https://medium.com/theropod
