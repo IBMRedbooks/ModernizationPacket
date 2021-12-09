@@ -3,6 +3,8 @@ This repository contains diverse content a business can use to help deal with th
 
 This is not a strictly technical repository. It is intended to provide the materials needed to teach why and how rather than what. Code and specific user jopurneys focused on modernization can be found in a number of different locations including:
 - https://github.com/ambitus/pyzkiln Open Source Python code that performs a number cool z/OS functions.
+- https://www.ibm.com/community/z-and-cloud/ IBM's Cloud Modernization Center
 
-We are building an index of materials making it easy to find exactly what you need.
+We have an index that helps you find exactly what you need. It can be found at: https://github.com/IBMRedbooks/ModernizationPacket/wiki/Modernization-Packet-Index
+
 Additionally you can find great articles on modernization at: https://medium.com/theropod
